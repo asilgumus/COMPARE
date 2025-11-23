@@ -19,6 +19,7 @@
     Clone the repository and import it into your project:
 
     git clone https://github.com/asilgumus/COMPARE.git
+    pip install -r requirements.txt
 
 # Usage
     from compare import *
